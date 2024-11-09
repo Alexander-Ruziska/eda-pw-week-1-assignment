@@ -11,3 +11,15 @@
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+
+header {
+    background-color: rgb(27, 27, 150);
+}
+
+main {
+    background-color: rgb(187, 128, 138)
+}
+
+footer {
+    background-color: rgb(85, 135, 179);
+}
